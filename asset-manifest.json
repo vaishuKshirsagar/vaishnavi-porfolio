@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/vaishnavi-porfolio/static/css/main.2aed850f.css",
+    "main.js": "/vaishnavi-porfolio/static/js/main.1b1dab62.js",
+    "static/js/787.bc7d429a.chunk.js": "/vaishnavi-porfolio/static/js/787.bc7d429a.chunk.js",
+    "static/media/image.jpg": "/vaishnavi-porfolio/static/media/image.d5b2c6705e71a851e4d0.jpg",
+    "static/media/contact.jpg": "/vaishnavi-porfolio/static/media/contact.349fe301c45016f84d89.jpg",
+    "static/media/project3.png": "/vaishnavi-porfolio/static/media/project3.e864ea8f1868aa6a91fd.png",
+    "static/media/project2.png": "/vaishnavi-porfolio/static/media/project2.d029ac3ab094d96eab24.png",
+    "static/media/project1.png": "/vaishnavi-porfolio/static/media/project1.ec18060bce2036454673.png",
+    "static/media/profile1.jpg": "/vaishnavi-porfolio/static/media/profile1.7e44f9d2ce96de713110.jpg",
+    "static/media/Poppins-Thin.ttf": "/vaishnavi-porfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/vaishnavi-porfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/vaishnavi-porfolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/vaishnavi-porfolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/vaishnavi-porfolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/vaishnavi-porfolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/vaishnavi-porfolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/bg.jpg": "/vaishnavi-porfolio/static/media/bg.d580cd375921d13ae60d.jpg",
+    "index.html": "/vaishnavi-porfolio/index.html",
+    "main.2aed850f.css.map": "/vaishnavi-porfolio/static/css/main.2aed850f.css.map",
+    "main.1b1dab62.js.map": "/vaishnavi-porfolio/static/js/main.1b1dab62.js.map",
+    "787.bc7d429a.chunk.js.map": "/vaishnavi-porfolio/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aed850f.css",
+    "static/js/main.1b1dab62.js"
+  ]
+}
